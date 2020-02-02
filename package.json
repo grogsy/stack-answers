@@ -1,0 +1,16 @@
+{
+  "name": "stack-answers",
+  "version": "1.0.0",
+  "description": "View answers from stack overflow that you found useful/favorited, and organize them in a way you find convenient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brian o.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.18.1",
+    "sequelize": "^5.21.3"
+  }
+}
